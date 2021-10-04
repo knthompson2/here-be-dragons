@@ -1,6 +1,9 @@
 require 'awesome_print'
 
 class Nytimes
+
+
+
   DATA = {
   "status": "OK",
   "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
@@ -3443,4 +3446,5 @@ class Nytimes
     }
   ]
 }
+
 end
